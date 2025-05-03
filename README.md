@@ -6,5 +6,5 @@ Projeto desenvolvido com foco na prática do JavaScript.
 
 Ferramentas utilizadas: HTML, CSS e JavaScript.
 
-Veja o projeto completo: (https://adivinhe-numero-secreto-six.vercel.app/)
+Veja o projeto completo: https://adivinhe-numero-secreto-six.vercel.app/
 LinkedIn: https://www.linkedin.com/in/julianepeixer/
